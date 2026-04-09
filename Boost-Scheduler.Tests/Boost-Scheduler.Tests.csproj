@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Boost-Scheduler.API\Boost-Scheduler.API.csproj" />
+    <ProjectReference Include="..\Boost-Scheduler.Console\Boost-Scheduler.Console.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -11,6 +11,13 @@ namespace Boost_Scheduler.Tests;
 public sealed class UnitTest1
 {
     [Fact]
+    public void TestGetInput()
+    {
+        //todo: impliment console.readline() testing with moq
+        //int test = GetInput(5);
+        Assert.True(true);
+    }
+    [Fact]
     public void TestReadGameWrongID()
     {
         //IActionResult result = DataController.ReadGame("");
@@ -23,11 +30,13 @@ public sealed class UnitTest1
         
         Assert.True(true);
     }
+
     [Fact(Skip="this will fail")]
     public void Test2()
     {
         Assert.False(true);
     }
+
     [Theory]
     [InlineData(true)]
     [InlineData(false)]
