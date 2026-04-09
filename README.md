@@ -4,15 +4,15 @@ To organize and schedule online sessions with others through comparing games and
 
 ## instructions on how to build and run the application:
 
-> Download as a zip file
-> extract into a directory
-> cd to Boost-Scheduler
-> type dotnet build
-> cd to Boost-Scheduler.API
-> type dotnet run
-> open a new command prompt
-> cd to Boost-Scheduler.console
-> type dotnet run
+- Download as a zip file
+- extract into a directory
+- cd to Boost-Scheduler
+- type dotnet build
+- cd to Boost-Scheduler.API
+- type dotnet run
+- open a new command prompt
+- cd to Boost-Scheduler.console
+- type dotnet run
 
 ## What did you learn from this project?
 
