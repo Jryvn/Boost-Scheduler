@@ -1,0 +1,6 @@
+@Boost_Scheduler.API_HostAddress = http://localhost:5160
+
+GET {{Boost_Scheduler.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

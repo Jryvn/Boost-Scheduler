@@ -1,0 +1,27 @@
+{
+"schedule": [
+	{"userID":"jry1234",
+	 "gameIDs":["s8dke", "3nowo"],
+	 "timeIDs":["kslsfh", "windkw"]
+	},
+	{"userID":"sha7868",
+	 "gameIDs":["n2dos", "3nowo"],
+	 "timeIDs":["ochwdc", "icnsle"]
+	}
+],
+"users": [
+	{"userID":"jry1234", "username":"Jryvn", "email":"jryvn@yahoo.com", "rating":"9"},
+	{"userID":"sha7868", "username":"Shadow", "email":"fhaskel@gmail.com", "rating":"8"}
+],
+"games": [
+	{"gameID":"s8dke", "name":"Portal 2", "system": "Steam"},
+	{"gameID":"n2dos", "name":"Starcraft 2", "system":"Battle.Net"},
+	{"gameID":"3nowo", "name":"Gears of War", "system":"XboxLive"}
+],
+"times": [
+	{"timeID":"kslsfh", "day":"Sunday", "startTime":"1:00pm", "endTime":"5:00pm"},
+	{"timeID":"windkw", "day":"Tuesday", "startTime":"6:00pm", "endTime":"10:00pm"},
+	{"timeID":"ochwdc", "day":"Friday", "startTime":"8:00pm", "endTime":"12:00pm"},
+	{"timeID":"icnsle", "day":"Thursday", "startTime":"7:00pm", "endTime":"9:00pm"}
+]
+}
